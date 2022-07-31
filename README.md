@@ -87,7 +87,7 @@ Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious ful
 
 ## 🎮 Try pressing the buttons and come back down
 
-<div style="text-align: center">
+<div align="center">
 <img src="https://toy.aoaoao.me/image" width="300"/>
 
 <br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Suryansh-23"><img src="https://raw.githubusercontent.com/Suryansh-23/Suryansh-23/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Suryansh-23/Suryansh-23/main/images/up.png" width="35"/></a>
