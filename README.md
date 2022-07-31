@@ -1,4 +1,3 @@
-<font size=5>
 <img src="images/header.png" width="100%" height="50%"/>
 
 <p align="center">
@@ -69,9 +68,9 @@ Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious ful
 ## ✨ Some Amazing Open Source Projects
 
 <p align="left">
-  <a href="https://github.com/Suryansh-23/Project-Leek"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Suryansh-23&repo=Project-Leek&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
-  <a href="https://github.com/Suryansh-23/3D-Projectile"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=3D-Projectile&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Suryansh-23/brainfuck-go"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=Brainfuck-Go&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Suryansh-23/Project-Leek"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Suryansh-23&repo=Project-Leek&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/Suryansh-23/3D-Projectile"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=3D-Projectile&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Suryansh-23/brainfuck-go"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=Brainfuck-Go&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
 </p>
 <p align="center" style="margin-top: 4rem">
   <a href="https://github.com/Suryansh-23?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -100,4 +99,3 @@ Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious ful
 ---
 
 <img src="images/footer.png" width="100%" height="auto"/>
-
