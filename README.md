@@ -28,7 +28,7 @@
 
 <p>
   
-Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious full stack developer. I specialize in Python, Web Development, Javascript, Go Lang, Desktop App Development, Cryptography, Mobile App Development. I love the idea of Open Source and Comunity and always try to enrich my work with breathtaking visual elements and add a spark of mischief. ✨
+Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious full stack developer. I specialize in Python, Web Development, Javascript, Go Lang, Desktop App Development, Cryptography, Mobile App Development. I love the idea of Open Source and Community and always try to enrich my work with breathtaking visual elements and add a spark of mischief. ✨
 
 <div>
 <details>
