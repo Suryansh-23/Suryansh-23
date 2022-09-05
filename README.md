@@ -9,7 +9,7 @@
   <img src="images/twitter.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA" alt="YouTube Music">
+  <a href="https://music.youtube.com/channel/UCVXKLPdHzzU3ts4Hd9Lxl8g?feature=share" alt="YouTube Music">
     <img src="images/ytmusic.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
