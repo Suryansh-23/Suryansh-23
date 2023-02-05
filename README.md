@@ -78,8 +78,10 @@ Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious ful
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FSuryansh-23"/></a>
   <a href="https://github.com/Suryansh-23?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Suryansh-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Suryansh-23">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Suryansh-23&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
+    <a href="https://github.com/Suryansh-23">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Suryansh-23&style=for-the-badge"/></a>
+<!--   <a href="https://github.com/Suryansh-23">
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Suryansh-23&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a> -->
 </p>
 
 ---
