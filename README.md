@@ -17,7 +17,7 @@
   <img src="images/leetcode.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="">
+  <a href="https://www.linkedin.com/in/suryansh-chauhan-5966b2264/">
     <img src="images/linkedin.svg"/>
   </a>
   <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
