@@ -36,7 +36,7 @@ Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious ful
 
 -   🔭 I’m currently on a path to contribute to the world with my **Ideas**
 
--   🌱 I’m currently learning **Anything I find Interesting** 🤓
+-   🌱 I’m currently learning **AI/ML with a touch of Cloud** 🤓
 
 -   🤝 I’m looking for **People who have the same passion for Open Source and Projects to contribute to**
 
@@ -69,7 +69,7 @@ Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious ful
 
 <p align="left">
   <a href="https://github.com/Suryansh-23/Project-Leek"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Suryansh-23&repo=Project-Leek&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
-  <a href="https://github.com/Suryansh-23/3D-Projectile"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=3D-Projectile&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Suryansh-23/amrit"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=3D-Projectile&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/Suryansh-23/brainfuck-go"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=Brainfuck-Go&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
 </p>
 <p align="center" style="margin-top: 4rem">
