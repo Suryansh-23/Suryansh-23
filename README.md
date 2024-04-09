@@ -58,9 +58,9 @@ Hi 👋, I am <font size=6>**Suryansh**</font> an enthusiastic and ambitious ful
 <img align="right" width="45%" src="images/jinx-doodle.gif"/>
 
 <a href="https://github.com/Suryansh-23"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Suryansh-23&theme=radical&title_color=3996fa&show_icons=true"></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-23&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa"></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-23&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa&mode=weekly"></a>
 <a href="https://github.com/Suryansh-23">
-<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suryansh-23&hide=html,css&layout=compact&langs_count=6&theme=radical"/>
+<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suryansh-23&hide=html,css&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
 ---
