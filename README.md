@@ -1,22 +1,25 @@
-<img src="images/hiroshige-wave-header.jpg" width="100%" alt="Hiroshige — A Great Wave by the Coast (Shichirigahama)" />
+<img src="assets/hiroshige-wave-header.jpg" width="100%" alt="Hiroshige — A Great Wave by the Coast (Shichirigahama)" />
 
 # Suri
 
 I build crypto and Web3 systems across smart contracts, data pipelines, and frontends. I like clean infra, fast feedback loops, and small teams that ship.
 
-Links: [Website](https://heysuri.xyz/) | [Writing](https://heysuri.xyz/writing/) | [Resume](Suri_Resume.pdf) | [Email](mailto:heysuri@proton.me) | [X](https://twitter.com/SuriPuri23)
+Links: [Website](https://heysuri.xyz/) | [Writing](https://heysuri.xyz/writing/) | [Resume](assets/Suri_Resume.pdf) | [Email](mailto:heysuri@proton.me) | [X](https://twitter.com/SuriPuri23)
 
 ## Now
+
 - Junior Web3 Full Stack Engineer at Nefture (DeFi metrics, simulators, and testing pipelines).
 - Building protocol-agnostic analytics, on-chain data infra, and agentic payments.
 - Research interests: DeFi mechanism design, intent-based agents, market microstructure, distributed systems, ZK, and cryptography.
 
 ## Experience
+
 - Nefture - Junior Web3 Full Stack Engineer (Jan 2025 to Present)
 - Deon Labs - Blockchain Developer Intern (Apr 2024 to Dec 2024)
 - Freelance - Full Stack Engineer (DeFi infra and integrations)
 
 ## Highlights
+
 - ETHGlobal New Delhi 2025 finalist and partner prize winner.
 - ETHGlobal Buenos Aires 2025 prize winner (Uniswap v4 hooks, Pyth pull feeds, Oasis).
 - ETHGlobal Bangkok 2024 multi-track bounty winner (Cartesi, Avail, The Graph, Blockscout).
@@ -24,6 +27,7 @@ Links: [Website](https://heysuri.xyz/) | [Writing](https://heysuri.xyz/writing/)
 - Hyperlane builder grant for hyperlane-mcp.
 
 ## Selected Projects
+
 - [P.A.T](https://github.com/Suryansh-23/p.a.t) - Uniswap v4 hook launchpad with TEE-priced async batch swaps and Pyth pull feeds.
 - [Liquidity Oracle](https://github.com/Suryansh-23/liquidity-oracle) - Uniswap v4 hooks + EigenLayer AVS for real-time liquidity metrics.
 - [degenOS](https://github.com/Suryansh-23/degenOS) - Decentralized OS on Cartesi Rollups + Avail DA.
@@ -35,10 +39,12 @@ Links: [Website](https://heysuri.xyz/) | [Writing](https://heysuri.xyz/writing/)
 - [Project-Leek](https://github.com/Suryansh-23/Project-Leek) - AES desktop encryption with steganography.
 
 ## Writing and Research
+
 - Writing: https://heysuri.xyz/writing/
 - Publication: Transformer-based approach to extract UML class diagrams from requirements (Jan 2024).
 
 ## Beyond work
+
 - Music and sound design experiments.
 - Drawing, sketching, and small visual studies.
 - Recreational math puzzles and algorithmic curiosities.
@@ -46,6 +52,7 @@ Links: [Website](https://heysuri.xyz/) | [Writing](https://heysuri.xyz/writing/)
 - Visual design explorations (small UI and identity experiments).
 
 ## Code stats
+
 <table align="center">
   <tr>
     <td align="center">
