@@ -59,7 +59,7 @@ Links: <a href="https://heysuri.xyz/" target="_blank" rel="noopener noreferrer">
       <img src="https://github-readme-stats-fast.vercel.app/api?username=Suryansh-23&show_icons=true&hide_border=true" width="420" alt="GitHub stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-23&hide_border=true" width="420" alt="GitHub streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-23&hide_border=true&mode=weekly" width="420" alt="GitHub streak" />
     </td>
   </tr>
   <tr>
