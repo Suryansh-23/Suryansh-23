@@ -46,18 +46,28 @@ Links: [Website](https://heysuri.xyz/) | [Writing](https://heysuri.xyz/writing/)
 - Visual design explorations (small UI and identity experiments).
 
 ## Code stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryansh-23&show_icons=true&hide_border=true" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-23&hide_border=true" width="49%" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-23&layout=compact&langs_count=7&hide_border=true" width="49%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryansh-23&bg_color=ffffff&color=111827&line=0f172a&point=64748b&area=true&hide_border=true" width="100%" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suryansh-23&style=flat-square" alt="Profile views" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Suryansh-23&show_icons=true&hide_border=true" width="420" alt="GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-23&hide_border=true" width="420" alt="GitHub streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Suryansh-23&layout=compact&langs_count=7&hide_border=true" width="420" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryansh-23&bg_color=ffffff&color=111827&line=0f172a&point=64748b&area=true&hide_border=true" width="860" alt="Activity graph" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://komarev.com/ghpvc/?username=Suryansh-23&style=flat-square" alt="Profile views" />
+    </td>
+  </tr>
+</table>
