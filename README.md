@@ -4,7 +4,7 @@
 
 I build crypto and Web3 systems across smart contracts, data pipelines, and frontends. I like clean infra, fast feedback loops, and small teams that ship.
 
-Links: [Website](https://heysuri.xyz/) | [Writing](https://heysuri.xyz/writing/) | [Resume](assets/Suri_Resume.pdf) | [Email](mailto:heysuri@proton.me) | [X](https://twitter.com/SuriPuri23)
+Links: <a href="https://heysuri.xyz/" target="_blank" rel="noopener noreferrer">Website</a> | <a href="https://heysuri.xyz/writing/" target="_blank" rel="noopener noreferrer">Writing</a> | <a href="assets/Suri_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a> | <a href="mailto:heysuri@proton.me" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://twitter.com/SuriPuri23" target="_blank" rel="noopener noreferrer">X</a>
 
 ## Now
 
@@ -22,25 +22,25 @@ Links: [Website](https://heysuri.xyz/) | [Writing](https://heysuri.xyz/writing/)
 
 - ETHGlobal New Delhi 2025 finalist and partner prize winner.
 - ETHGlobal Buenos Aires 2025 prize winner (Uniswap v4 hooks, Pyth pull feeds, Oasis).
+- Hyperlane builder grant for hyperlane-mcp.
 - ETHGlobal Bangkok 2024 multi-track bounty winner (Cartesi, Avail, The Graph, Blockscout).
 - Uniswap UHI v4 Hookathon winner (Liquidity Oracle).
-- Hyperlane builder grant for hyperlane-mcp.
 
 ## Selected Projects
 
-- [P.A.T](https://github.com/Suryansh-23/p.a.t) - Uniswap v4 hook launchpad with TEE-priced async batch swaps and Pyth pull feeds.
-- [Liquidity Oracle](https://github.com/Suryansh-23/liquidity-oracle) - Uniswap v4 hooks + EigenLayer AVS for real-time liquidity metrics.
-- [degenOS](https://github.com/Suryansh-23/degenOS) - Decentralized OS on Cartesi Rollups + Avail DA.
-- [Autonome](https://github.com/Suryansh-23/autonome) - Agentic payments and identity stack with x402 gating and ENS subnames.
-- [Hyperlane MCP](https://github.com/Suryansh-23/hyperlane-mcp) - MCP server for cross-chain messaging and ops.
-- [Fission](https://github.com/Suryansh-23/fission) - Cross-chain atomic swaps to Sui via 1inch Fusion+.
-- [Intendo-64](https://github.com/Suryansh-23/intendo-64) - Retro natural-language intents for DeFi.
-- [Amrit](https://github.com/Suryansh-23/amrit) - Hindi programming language interpreter in Go (Devanagari + English tokens).
-- [Project-Leek](https://github.com/Suryansh-23/Project-Leek) - AES desktop encryption with steganography.
+- <a href="https://github.com/Suryansh-23/p.a.t" target="_blank" rel="noopener noreferrer">P.A.T</a> - Uniswap v4 hook launchpad with TEE-priced async batch swaps and Pyth pull feeds.
+- <a href="https://github.com/Suryansh-23/liquidity-oracle" target="_blank" rel="noopener noreferrer">Liquidity Oracle</a> - Uniswap v4 hooks + EigenLayer AVS for real-time liquidity metrics.
+- <a href="https://github.com/Suryansh-23/degenOS" target="_blank" rel="noopener noreferrer">degenOS</a> - Decentralized OS on Cartesi Rollups + Avail DA.
+- <a href="https://github.com/Suryansh-23/autonome" target="_blank" rel="noopener noreferrer">Autonome</a> - Agentic payments and identity stack with x402 gating and ENS subnames.
+- <a href="https://github.com/Suryansh-23/hyperlane-mcp" target="_blank" rel="noopener noreferrer">Hyperlane MCP</a> - MCP server for cross-chain messaging and ops.
+- <a href="https://github.com/Suryansh-23/fission" target="_blank" rel="noopener noreferrer">Fission</a> - Cross-chain atomic swaps to Sui via 1inch Fusion+.
+- <a href="https://github.com/Suryansh-23/intendo-64" target="_blank" rel="noopener noreferrer">Intendo-64</a> - Retro natural-language intents for DeFi.
+- <a href="https://github.com/Suryansh-23/amrit" target="_blank" rel="noopener noreferrer">Amrit</a> - Hindi programming language interpreter in Go (Devanagari + English tokens).
+- <a href="https://github.com/Suryansh-23/Project-Leek" target="_blank" rel="noopener noreferrer">Project-Leek</a> - AES desktop encryption with steganography.
 
 ## Writing and Research
 
-- Writing: https://heysuri.xyz/writing/
+- Writing: <a href="https://heysuri.xyz/writing/" target="_blank" rel="noopener noreferrer">heysuri.xyz/writing</a>
 - Publication: Transformer-based approach to extract UML class diagrams from requirements (Jan 2024).
 
 ## Beyond work
